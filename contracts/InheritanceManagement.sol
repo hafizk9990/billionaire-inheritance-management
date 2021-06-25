@@ -1,4 +1,4 @@
-pragma solidity ^0.8.4; 
+pragma solidity 0.8.4;
 
 // SPDX-License-Identifier: MIT 
 
@@ -208,4 +208,3 @@ contract InheritanceManagement {
         totalWealth -= ((3 * threeParts) + 1);
     }
 }
-
